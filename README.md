@@ -1,0 +1,2 @@
+# Mern_Let-s_Chat_App
+• Let’s Chat is a Mern Stack Chat Application Which Supports Real time Messaging and Real time Notifications. • Let’s Chat is a MERN Stack web application for one on one and group chatting • It supports real time messaging and notifications which further enhances the useability • MongoDb for User data and Chats Express :- js for various Api’s and their connectivity React :- Js for interactive and easy to use User Interfaces NodeJs :- Back end server for the Application • Socket.io for supporting/enabling realtime messaging and notifications
