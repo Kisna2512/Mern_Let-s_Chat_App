@@ -27,7 +27,8 @@
 
 <h3>Chat Page</h3>
 
-![One on One Chatting](https://user-images.githubusercontent.com/81731490/180642825-de2fcfdb-16ee-4557-8c4e-9a9247e62615.jpeg)
+![One on One Chatting](![Screenshot (688)](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/77ce1ad7-239a-493d-a709-cd2ed26e5d0b)
+)
 
 <h3>User Profile</h3>
 
@@ -48,7 +49,8 @@
 
 <h3>Realtime Messaging</h3>
 
-![Realtime Messaging and Typing indicator](https://user-images.githubusercontent.com/81731490/180642743-a07f8a73-cafa-4596-808d-9535dd98cec9.jpeg)
+![Realtime Messaging and Typing indicator](![Screenshot (689)](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/e4827050-cfb6-4772-97d5-7878e2ae909a)
+)
 
 <h3>Realtime Notifications</h3>
 
