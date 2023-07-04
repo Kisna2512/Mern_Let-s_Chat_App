@@ -49,8 +49,8 @@
 
 <h3>Realtime Messaging</h3>
 
-![Realtime Messaging and Typing indicator](![Screenshot (689)](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/e4827050-cfb6-4772-97d5-7878e2ae909a)
-)
+![Realtime Messaging and Typing indicator](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/e4827050-cfb6-4772-97d5-7878e2ae909a)
+
 
 <h3>Realtime Notifications</h3>
 
