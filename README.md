@@ -27,7 +27,7 @@
 
 <h3>Chat Page</h3>
 
-![One on One Chatting](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/77ce1ad7-239a-493d-a709-cd2ed26e5d0b)
+![One on One Chatting] (https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/77ce1ad7-239a-493d-a709-cd2ed26e5d0b)
 
 
 <h3>User Profile</h3>
