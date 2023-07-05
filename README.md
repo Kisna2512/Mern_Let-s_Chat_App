@@ -24,20 +24,26 @@
 
 <h3>Login Page</h3>
 
-![Login](https://user-images.githubusercontent.com/81731490/180642707-68d53784-2a48-47cf-9509-0adc4ed64dad.jpeg)
+![Login](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/00dd6d2c-b882-47ad-b642-55c40b037b04)
+
 
 <h3>Chat Page</h3>
 
-![One on One Chatting](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/77ce1ad7-239a-493d-a709-cd2ed26e5d0b)
+![One on One Chatting](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/a4381e12-569d-461c-a37a-664ee6c726de)
+
 
 
 <h3>User Profile</h3>
 
-![User Profile](https://user-images.githubusercontent.com/81731490/180642737-b01413b8-a177-4b30-942a-f32413209df3.jpeg)
+![User Profile](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/e302f393-6c89-4b24-8ba2-fc43f61a8ffd)
+
 
 <h3>Searching Users</h3>
 
-![Search Users](https://user-images.githubusercontent.com/81731490/180642721-aa061c2c-d3b0-4bcb-8c94-ee9012873e56.jpeg)
+![Search Users](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/b362e832-b31e-4df3-80f8-3a7b0b94dd84)
+
+<h3>We can see other users profile</h3>
+![other user profile](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/85aee4f4-6773-4265-b2f3-b0bb95757d59)
 
 
 <h3>Create Group Chat</h3>
@@ -46,16 +52,19 @@
 
 <h3>Update Group Chat</h3>
 
-![Update Group Chat](https://user-images.githubusercontent.com/81731490/180642729-f36e7c23-f3b8-4847-bfdf-5b142dd295c8.jpeg)
+![Update Group Chat](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/ae120ef8-c1fe-4df0-9a90-87f5eafdbf40)
+
 
 <h3>Realtime Messaging</h3>
 
-![Realtime Messaging and Typing indicator](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/e4827050-cfb6-4772-97d5-7878e2ae909a)
+![Realtime Messaging and Typing indicator](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/d3c200b4-c0b3-498c-9a19-ebdc6d2657e4)
+
 
 
 <h3>Realtime Notifications</h3>
 
-![Realtime Notifications](https://user-images.githubusercontent.com/81731490/180642724-5ecd75e0-f466-42ac-87e9-72c90ecc10fc.jpeg)
+![Realtime Notifications](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/b0bc6151-3dd9-45e4-b72e-14c68a5acd0b)
+
 
 <h3>Logout</h3>
 
