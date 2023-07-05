@@ -19,7 +19,8 @@
 
 <h3>SignUp Page</h3>
 
-![Signup](https://user-images.githubusercontent.com/81731490/180642714-431118aa-f642-47ea-a60d-f7be207507a5.jpg)
+![Signup](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/51406bdd-660c-4b46-8419-9d03f29070ba)
+
 
 <h3>Login Page</h3>
 
