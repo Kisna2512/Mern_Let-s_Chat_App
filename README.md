@@ -1,9 +1,12 @@
 # MERN_Lets_Chat_App
 
 <ul>
-<li>Let’s Chat is a Mern Stack Chat Application Which Supports Real time Messaging and Real time Notifications.</li>
-<li>Let’s Chat is a MERN Stack web application for one on one and group chatting.</li>
-<li>It supports real time messaging and notifications which further enhances the useability</li>
+<li> The project I have created is a chat application that utilizes various technologies to enable real-time chatting functionality. The main components of the application are React.js for the frontend, Node.js for the backend, MongoDB as the database, and socket.io for real-time communication. </li>
+<li>Users can create accounts by signing up, providing their necessary details such as username, email, and password. They can then log in to the application using their credentials. Additionally, users have the ability to upload a profile photo, which can be viewed by other users.</li>
+<li>The chat application supports both one-to-one and group chatting. In one-to-one chats, users can initiate conversations with other registered users. The real-time nature of socket.io allows for instant messaging and updates within the chat interface. Users can view the profiles of other users, providing information about them and their uploaded profile photos.</li>
+  <li>
+    For group chatting, users have the ability to create groups and invite other users to join. The creator of a group can update the group settings, such as its name or description. Group members can participate in real-time discussions within the group, similar to one-to-one chats.
+  </li>
 </ul>
 
 # Technical Stack 
@@ -42,7 +45,7 @@
 
 ![Search Users](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/b362e832-b31e-4df3-80f8-3a7b0b94dd84)
 
-<h3>We Can see other uses profile</h3>
+<h3>We Can see other user profile</h3>
 
 ![Search Users](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/477c63f4-d2d9-4703-9a8d-199c99d31296)
 
