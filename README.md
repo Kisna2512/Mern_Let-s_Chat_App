@@ -43,7 +43,8 @@
 ![Search Users](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/b362e832-b31e-4df3-80f8-3a7b0b94dd84)
 
 <h3>We can see other users profile</h3>
-![other user profile](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/85aee4f4-6773-4265-b2f3-b0bb95757d59)
+![Screenshot (695)](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/0712c5c2-c2cd-44dc-9e61-f30669b6cd47)
+
 
 
 <h3>Create Group Chat</h3>
